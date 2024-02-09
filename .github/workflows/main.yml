@@ -10,4 +10,4 @@ jobs:
      - uses: actions/checkout@v3
 
      - name: Run a sample github actions
-     - run: echo "this wrkflow run successfully"
+       run: echo "this wrkflow run successfully"
